@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/welcome-banner-design-black-white-color-website-welcome-page-design_678696-249.jpg?w=2000" alt="Welcome Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Avantika!</h1>
