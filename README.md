@@ -1,11 +1,6 @@
-<!-- 🌟 AVANTIKA'S README - Modern UI Version -->
+# 👋 Hi, I'm Avantika Srivastava
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png" alt="Welcome Banner" width="100%" />
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4A90E2;">Avantika Srivastava</span></h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver</h3>
+### 💻 Backend Developer | C# | ASP.NET Core | .NET | AI Integration
 
 <p align="center">
   <a href="https://github.com/avantika2195">
@@ -16,45 +11,87 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 
-- 🔭 Currently working on **Hacktoberfest (first attempt)** and **AI-powered projects**  
-- 🌱 Learning **JavaScript**, **Python**, and **Data Structures & Algorithms**  
-- 💬 Ask me about **React**, **Node.js**, or **Backend Integration**  
-- 🎯 2025 Goal: Keep building, keep shipping!  
-- ☕ Fun fact: I debug faster with lo-fi beats 🎧  
+- 🔭 Currently working at **Genesis India** — building REST APIs for a large-scale **Digital Asset Management platform** using C#, ASP.NET Core & ADO.NET
+- 🤖 Passionate about **AI Integration** — LangChain, RAG Pipelines, Gemini API, Computer Vision
+- 🌱 Currently diving deeper into **DSA, System Design & Scalable Architecture**
+- 💬 Ask me about **C#, ASP.NET Core, REST APIs, OOP, or AI integration**
+- 🎯 2025 Goal: Build production-grade AI-powered backend systems
+- ☕ Fun fact: I debug faster with lo-fi beats 🎧
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,git" />
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,html,css" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+**AI & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,figma,vercel" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 🏗️ Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🎯 **DAM MediaMatrix** | Angular, ASP.NET Core, LangChain, GCP | AI-enabled Digital Asset Management with RAG pipelines |
+| 🤖 **AI Interviewer** | React.js, Node.js, PostgreSQL, Gemini API | Simulates technical interviews with real-time AI feedback |
+| 👁️ **AI Assistant for Visually Impaired** | Next.js, TypeScript, Node.js | Speech-to-Text, TTS & Computer Vision accessibility tool |
+| 🛠️ **Developers Stop** | React.js, Tailwind CSS, TypeScript | Curated resource hub for Frontend, Backend & DevOps |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avantika2195&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantika2195&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=avantika2195&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avantika2195&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### 🏅 Achievements
+
+- 🥇 **Top 10 — Hack it Sapiens** | Built innovative solution under tight deadlines
+- 🦸 **Coding Blocks Campus Hero** | Led peer learning sessions
+- 📢 **Content Head — Reskill ABESIT** | Led content strategy & student engagement
+- 🎤 **Event Host & Manager** | Hosted multiple tech fests, workshops & hackathons
+
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/avantika-srivastava123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -69,20 +106,15 @@
 
 ---
 
-### ✍️ Developer Quote  
+### ✍️ Developer Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
-### 💡 Fun Fact  
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
----
-
 <p align="center">
   <i>💖 If you like my work, consider starring my repositories!</i><br/>
-  <i>✨ Suggestions and collaborations are always welcome!</i>
+  <i>✨ Open to backend, AI integration opportunities & collaborations!</i>
 </p>
-
